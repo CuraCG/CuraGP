@@ -1,0 +1,14 @@
+{
+  "name": "CuraGP",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.42",
+    "fibers": "^3.0.0",
+    "meteor-node-stubs": "^0.3.2",
+    "rivescript": "^2.0.0-alpha.6",
+    "rule-reactor": "^0.1.14"
+  }
+}
